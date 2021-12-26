@@ -12,13 +12,13 @@
   "dependencies": {
     "basic-auth": "^2.0.1",
     "express": "4.17.2",
-    "gif2webp-bin": "^2.0.0",
+    "gif2webp-bin": "^4.0.1",
     "is-animated": "^2.0.1",
     "lodash": "^4.17.21",
     "request": "^2.88.2",
     "sharp": "^0.29.3"
   },
   "engines": {
-    "node": "^16.13.1"
+    "node": "^17.3.0"
   }
 }
